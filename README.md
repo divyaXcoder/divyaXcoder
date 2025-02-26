@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there , I am Divya Choudhary | Computer Science Student |
+
+- 📫 I’m Student of Govt. engineering College bikaner.
+- 🔭 I’m currently working on Web Security
+- 🌱 I’m currently learning Basics of Cyber security
+- 🤔 I’m doing Lang. enthusiasim with My team
+
 
 <!--
 **divyaXcoder/divyaXcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
